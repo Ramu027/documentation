@@ -458,7 +458,7 @@
               
 - OutPut:
 
-![image](img8.jpg) 
+![image](img11.jpg) 
 
 ### The flex-grow Property:
 
@@ -474,7 +474,7 @@
 - Output:
 
 
-![image](img9.jpg) 
+![image](img8.jpg) 
 
 
 ### The flex-shrink Property:
@@ -500,7 +500,7 @@
 - OutPut:
 
 
-![image](img10.jpg) 
+![image](img12.jpg) 
 
 
 
@@ -519,7 +519,7 @@
 
 - OutPut :
 
-![image](img11.jpg) 
+![image](img13.jpg) 
 
 ### The flex Property:
 
@@ -535,6 +535,9 @@
           </div>
 
 - OutPut:
+
+![image](img14.jpg) 
+
 
 ### The align-self Property:
 
@@ -552,6 +555,9 @@
             <div style="align-self: center">3</div>
             <div>4</div>
           </div>
+
+
+![image](img15.jpg) 
 
 ### CSS Media Queries :
 
@@ -587,6 +593,8 @@
         </html>
 
 - OutPut :
+
+![image](img9.jpg) 
   
 * Example2:
 
@@ -649,7 +657,9 @@
         </html>
         
         
-- OutPut img10:
+- OutPut :
+
+![image](img10.jpg) 
 
 ###  various kinds of screen resolutions :
 
