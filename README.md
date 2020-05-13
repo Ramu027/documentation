@@ -12,10 +12,11 @@
       
 -  A responsive web design will automatically adjust for different screen sizes and viewports.
 
+
 - This will set the viewport of your page, which will give the browser instructions on how to control the page's dimensions and scaling.
 
 
-
+![image](img.png)
 
 
 # Flexible Box:
@@ -79,6 +80,11 @@
 
               </body>
               </html>
+              
+- Output: 
+
+
+![image](img1.png)
 
 
 ### The flex-wrap Property:
@@ -131,6 +137,13 @@
 
         </body>
         </html>
+        
+        
+- Output: 
+
+
+![image](img2.png)
+
           
 ## The flex-flow Property:
 
@@ -182,6 +195,12 @@
 
           </body>
           </html>
+          
+          
+- Output: 
+
+
+![image](img3.png)
 
 
 ### The justify-content Property:
@@ -228,6 +247,14 @@
             </html>
             
             
+            
+- Output: 
+
+
+![image](img4.png)
+
+
+            
 ### The align-items Property:
 
 * The align-items property is used to align the flex items vertically.
@@ -271,6 +298,10 @@
           </body>
           </html>
           
+- Output: 
+
+
+![image](img5.jpg)         
           
 ### The align-content Property:
 
@@ -327,6 +358,8 @@
 
 - OutPut:
 
+![image](img6.jpg) 
+
 ### Child Elements (Items):
 
 * The direct child elements of a flex container automatically becomes flexible (flex) items.
@@ -366,6 +399,13 @@
 
           </body>
           </html>
+          
+          
+          
+- Output :
+
+![image](img7.jpg) 
+
 
 ### The flex item properties :
 - order
@@ -418,6 +458,8 @@
               
 - OutPut:
 
+![image](img8.jpg) 
+
 ### The flex-grow Property:
 
 
@@ -430,6 +472,9 @@
         </div>
         
 - Output:
+
+
+![image](img9.jpg) 
 
 
 ### The flex-shrink Property:
@@ -455,6 +500,10 @@
 - OutPut:
 
 
+![image](img10.jpg) 
+
+
+
 ### The flex-basis Property :
 
 - The flex-basis property specifies the initial length of a flex item.
@@ -470,7 +519,7 @@
 
 - OutPut :
 
-
+![image](img11.jpg) 
 
 ### The flex Property:
 
